@@ -26,3 +26,6 @@
 #include "sdk/gamemodel.h"
 #include "sdk/entitysoldierclass.h"
 #include "sdk/entitysoldier.h"
+#include "sdk/character.h"
+#include "sdk/team.h"
+#include "sdk/teammanager.h"

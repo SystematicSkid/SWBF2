@@ -38,5 +38,17 @@
     <ClInclude Include="sdk\vector.h">
       <Filter>Header Files\sdk</Filter>
     </ClInclude>
+    <ClInclude Include="sdk\team.h">
+      <Filter>Header Files\sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="sdk\character.h">
+      <Filter>Header Files\sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="sdk\teammanager.h">
+      <Filter>Header Files\sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="sdk\commandpost.h">
+      <Filter>Header Files\sdk</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

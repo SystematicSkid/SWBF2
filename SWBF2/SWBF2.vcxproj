@@ -113,9 +113,13 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="sdk\character.h" />
+    <ClInclude Include="sdk\commandpost.h" />
     <ClInclude Include="sdk\entitysoldier.h" />
     <ClInclude Include="sdk\entitysoldierclass.h" />
     <ClInclude Include="sdk\gamemodel.h" />
+    <ClInclude Include="sdk\team.h" />
+    <ClInclude Include="sdk\teammanager.h" />
     <ClInclude Include="sdk\vector.h" />
     <ClInclude Include="swbf2.h" />
   </ItemGroup>

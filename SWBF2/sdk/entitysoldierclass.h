@@ -18,5 +18,4 @@ public:
 	WeaponList weapons; //0x0748
 	char pad_0758[56]; //0x0758
 	int32_t numOfWeapons; //0x0790
-	char pad_0794[248]; //0x0794
 }; //Size: 0x088C
