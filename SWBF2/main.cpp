@@ -8,6 +8,7 @@ void Init()
 	freopen("CONOUT$", "w", stdout);
 	freopen("CONOUT$", "w", stderr);
 
+	// Godmode: base + 0x3B1E5C
 }
 
 DWORD __stdcall DllMain(HMODULE dll, DWORD callreason, void* reserved)

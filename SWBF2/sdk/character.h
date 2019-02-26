@@ -8,4 +8,5 @@ public:
 	class EntitySoldierClass* pClass; //0x0140
 	class CommandPost* pCommandPost; //0x0144
 	class EntitySoldier* pSoldier; //0x0148
+	class EntityFlyer* pSpaceship; //0x014C
 }; //Size: 0x01CC

@@ -118,6 +118,7 @@
     <ClInclude Include="sdk\entitysoldier.h" />
     <ClInclude Include="sdk\entitysoldierclass.h" />
     <ClInclude Include="sdk\gamemodel.h" />
+    <ClInclude Include="sdk\localdata.h" />
     <ClInclude Include="sdk\team.h" />
     <ClInclude Include="sdk\teammanager.h" />
     <ClInclude Include="sdk\vector.h" />

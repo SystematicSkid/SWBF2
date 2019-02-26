@@ -50,5 +50,8 @@
     <ClInclude Include="sdk\commandpost.h">
       <Filter>Header Files\sdk</Filter>
     </ClInclude>
+    <ClInclude Include="sdk\localdata.h">
+      <Filter>Header Files\sdk</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

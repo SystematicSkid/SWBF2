@@ -12,6 +12,10 @@ public:
 	int32_t numClasses; //0x0048
 	char pad_004C[4]; //0x004C
 	class EntitySoldierClass** pClasses; //0x0050
+	char pad_0054[16]; //0x0054
+	int32_t factionId; //0x0064
+	char pad_0068[44]; //0x0068
+	float aggressiveness; //0x0094
 
 	Character* GetCharacter(int idx)
 	{

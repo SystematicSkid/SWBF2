@@ -29,3 +29,4 @@
 #include "sdk/character.h"
 #include "sdk/team.h"
 #include "sdk/teammanager.h"
+#include "sdk/localdata.h"
