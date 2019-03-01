@@ -30,3 +30,7 @@
 #include "sdk/team.h"
 #include "sdk/teammanager.h"
 #include "sdk/localdata.h"
+
+// core
+#include "interfaces.h"
+#include "hooks.h"
